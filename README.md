@@ -1,0 +1,2 @@
+# estructura
+struct de c
